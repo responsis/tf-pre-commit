@@ -1,3 +1,7 @@
+# ARCHIVED
+
+Not in use.
+
 [![Maintained by Gruntwork.io](https://img.shields.io/badge/maintained%20by-gruntwork.io-%235849a6.svg)](https://gruntwork.io/?ref=repo_pre-commit)
 
 # Pre-commit hooks
